@@ -1,0 +1,16 @@
+id,nama,usia,jenis kelamin,pendapatan tahunan,lama bekerja,kepemilikan rumah,jumlah pinjaman,tujuan pinjaman,lama pinjaman,persentase pendapatan pinjaman,email,kontak,skor risiko kredit,klasifikasi risiko,keputusan
+93624,Arvano,20,Male,9600,3,Own,1000,Personal,2,0.1,vano99@gmail.com,081345678739,06,Sedang,Review Manually
+67583,arvin,19,Male,9600,5,Rent,1000,Debt Consolidation,2,0.1,vinn@gmail.com,0813456789383,06,Sedang,Review Manually
+77860,Amelia Scott,22,Female,9600,2,Rent,1000,Medical,2,0.1,amelia.scott@gmail.com,081456787368,04,Rendah,Approve
+70712,Mia Thompson,19,Female,2000,1,Rent,500,Education,1,0.25,mia.thompson@zoomer.net.com,081568973983,06,Sedang,Review Manually
+11667,Aiden Carter,20,Male,3000,2,Mortgage,500,Debt Consolidation,1,0.2,aiden.carter@skymax.com,0816789379378,05,Sedang,Review Manually
+65122,Lucas Hayes,20,Male,4000,3,Mortgage,2000,Debt Consolidation,2,0.5,lucas.hayes@quickmail.org,082683787368,06,Sedang,Review Manually
+68562,Olivia Bennett,40,Female,50000,20,Other,25000,Medical,,0.5,olivia.bennett@fastwave.com,081834897587,11,Tinggi,Reject
+46445,Ethan Reed,22,Male,5000,1,Mortgage,500,Debt Consolidation,1,0.05,ethan.reed@stormmail.co,08183749856,04,Rendah,Approve
+32675,Sophia Price,30,Female,100000,10,Mortgage,50000,Debt Consolidation,3,0.5,sophia.price@bluesky.org,0818973657296,12,Tinggi,Reject
+22621,Liam Brooks,28,Male,60000,3,Mortgage,30000,Debt Consolidation,2,0.5,liam.brooks@novaweb.io,08187389538,09,Sedang,Review Manually
+54037,Noah Morgan,55,Male,500000,30,Own,200000,Medical,3,0.7,noah.morgan@brightmail.co,0827987589574,12,Tinggi,Reject
+55175,Mason Foster,25,Male,30000,4,Mortgage,3000,Debt Consolidation,2,0.1,mason.foster@openwave.org,081763762836,05,Sedang,Review Manually
+34875,Logan Ward,22,Male,2000,2,Mortgage,200,Debt Consolidation,1,0.1,logan.ward@nextstream.com,0817634786587,04,Rendah,Approve
+53063,Jackson White,20,Male,20000,1,Mortgage,100,Debt Consolidation,1,0.01,jackson.white@edgewave.co,081678236566,04,Rendah,Approve
+38328,James Edwards,25,Male,40000,3,Mortgage,4000,Debt Consolidation,1,0.1,james.edwards@signalway.net,081767678756,04,Rendah,Approve
